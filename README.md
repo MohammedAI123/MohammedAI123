@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 
 - 🔭 I’m currently working on my dissertation and studying for my Comptia Security+ Exam
-- 🌱 I’m currently learning ethical hacking, emerging technology and 
+- 🌱 I’m currently learning ethical hacking and emerging technology 
 - 🤔 I’m looking for help with graduate opportunities and projects
 - 📫 How to reach me: LinkedIn
 
