@@ -1,9 +1,9 @@
 ## Hi there 👋
 ## 
-- 🔭 I’m currently working on my dissertation and studying for my Comptia Security+ Exam
-- 🌱 I’m currently learning ethical hacking and emerging technology 
+- 🔭 I’m a Cyber Security graduate looking to pursue a career within cloud security
+- 🌱 I’m currently working as a Service Guide at EE
 - 🤔 I’m looking for help with graduate opportunities and projects
-- 📫 How to reach me: LinkedIn
+
 
 
 <!--
