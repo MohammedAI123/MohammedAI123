@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## 
 - 🔭 I’m a Cyber Security graduate looking to pursue a career within cloud security
-- 🌱 I’m currently working as a Service Guide at EE
-- 🤔 I’m looking for help with graduate opportunities and projects
+-  I’m currently working as a Service Guide at EE
+-  I’m looking for help with graduate opportunities and projects
 
 
 
